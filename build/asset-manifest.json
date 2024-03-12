@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f26e502.css",
-    "main.js": "/static/js/main.102c8ed9.js",
+    "main.js": "/static/js/main.0d0f7562.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Dall-e_Image.png": "/static/media/Dall-e_Image.518b41077d8cd7199c35.png",
     "static/media/recipeGenerator.png": "/static/media/recipeGenerator.b6eba0d6088d92708bfd.png",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.3f26e502.css.map": "/static/css/main.3f26e502.css.map",
-    "main.102c8ed9.js.map": "/static/js/main.102c8ed9.js.map",
+    "main.0d0f7562.js.map": "/static/js/main.0d0f7562.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f26e502.css",
-    "static/js/main.102c8ed9.js"
+    "static/js/main.0d0f7562.js"
   ]
 }
