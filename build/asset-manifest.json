@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f26e502.css",
+    "main.js": "/static/js/main.102c8ed9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Dall-e_Image.png": "/static/media/Dall-e_Image.518b41077d8cd7199c35.png",
+    "static/media/recipeGenerator.png": "/static/media/recipeGenerator.b6eba0d6088d92708bfd.png",
+    "static/media/course2.png": "/static/media/course2.fab0d573de9a18733f96.png",
+    "static/media/SumitResumeJFS.pdf": "/static/media/SumitResumeJFS.767247690af007406c55.pdf",
+    "static/media/connector.png": "/static/media/connector.47e5ab4e2b290a79fc14.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Home1.svg": "/static/media/Home1.6b9c708f24fe1e1205f26711d2b6f19a.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.3f26e502.css.map": "/static/css/main.3f26e502.css.map",
+    "main.102c8ed9.js.map": "/static/js/main.102c8ed9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f26e502.css",
+    "static/js/main.102c8ed9.js"
+  ]
+}
